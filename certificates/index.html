@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./style.css" />
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link id='favicon' rel="shortcut icon" href="assets/images/favicon-32x32.png" type="image/x-png" />
+  <title>Certificates | Portfolio Ravi Narayana</title>
+</head>
+
+<body oncontextmenu="return false">
+
+  <!-- navbar starts -->
+  <header>
+    <a href="/" class="logo">
+      <i style="
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: #007bff;
+        color: white;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 16px;
+        font-family: sans-serif;
+      ">RN</i>
+      Ravi Narayana
+    </a>
+
+    <div id="menu" class="fas fa-bars"></div>
+    <nav class="navbar">
+      <ul>
+        <li><a href="/#home">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#skills">Skills</a></li>
+        <li><a href="/#education">Education</a></li>
+        <li><a href="/#work">Work</a></li>
+        <li><a href="/#internships">Internships</a></li>
+        <li><a class="active" href="/#certificates">Certificates</a></li>
+        <li><a href="/#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- navbar ends -->
+
+  <!-- certificates section starts -->
+  <section class="certificates" id="certificates">
+
+    <h2 class="heading"><i class="fas fa-certificate"></i> My <span>Certificates</span></h2>
+
+    <div id="filters" class="button-group">
+      <button class="btn is-checked" data-filter="*">All Certificates</button>
+      <button class="btn" data-filter=".Technical">Technical</button>
+      <button class="btn" data-filter=".NonTechnical">Non-Technical</button>
+    </div>
+
+    <div class="box-container">
+      <!-- Example Card
+      <div class="box tilt Technical">
+        <img src="/assets/images/certificates/cert1.png" alt="Certificate" />
+        <div class="content">
+          <div class="tag">
+            <h3>Python Certificate</h3>
+          </div>
+          <div class="desc">
+            <p>Completed Python Programming from XYZ Platform.</p>
+            <div class="btns">
+              <a href="#" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+              <a href="#" class="btn" target="_blank">Download <i class="fas fa-download"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      -->
+    </div>
+
+    <div class="backbtn">
+      <a href="/#certificates" class="btn">
+        <i class="fas fa-arrow-left"></i>
+        <span>Back to Home</span>
+      </a>
+    </div>
+
+  </section>
+  <!-- certificates section ends -->
+
+  <!-- scroll top btn -->
+  <a href="#certificates" class="fas fa-angle-up" id="scroll-top"></a>
+
+  <!-- ==== JS CDNs ==== -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js"
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://unpkg.com/scrollreveal"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="./script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Python training program",
+    "desc": "Issued by Skillvertex",
+    "image": "Python_certificate",
+    "category": "Technical",
+    "links": {
+      "view": "https://drive.google.com/file/d/11jEBSxL7O5mBUu8zva52hsnXuKGLVHRt/view?usp=sharing",
+      "download": "https://drive.google.com/uc?export=download&id=11jEBSxL7O5mBUu8zva52hsnXuKGLVHRt"
+    }
+  },
+  {
+    "name": "CSS (Basic)",
+    "desc": "Issued by HackerRank",
+    "image": "css_hr",
+    "category": "Technical",
+    "links": {
+      "view": "https://www.hackerrank.com/certificates/iframe/9671c9f1bb42",
+      "download": "https://www.hackerrank.com/certificates/iframe/9671c9f1bb42"
+    }
+  },
+  {
+    "name": "Artificial Intelligence",
+    "desc": "Issued by Edunet Foundation",
+    "image": "ai_3.0",
+    "category": "Technical",
+    "links": {
+      "view": "https://drive.google.com/file/d/11nJF9opZnaDncAIe4jxZc55VqsiduxEJ/view?usp=sharing",
+      "download": "https://drive.google.com/uc?export=download&id=11nJF9opZnaDncAIe4jxZc55VqsiduxEJ"
+    }
+  },
+  {
+    "name": "Full Stack Java",
+    "desc": "Issued by College",
+    "image": "miet",
+    "category": "Technical",
+    "links": {
+      "view": "https://drive.google.com/file/d/1KQTyAZ0SO2mYPS8ibpvLAceaDZEs8XQv/view?usp=sharing",
+      "download": "https://drive.google.com/uc?export=download&id=1KQTyAZ0SO2mYPS8ibpvLAceaDZEs8XQv"
+    }
+  },
+  {
+    "name": "Regional Showcase",
+    "desc": "Issued by TechSaksham",
+    "image": "3rd_tsp",
+    "category": "Technical",
+    "links": {
+      "view": "https://drive.google.com/file/d/1aq9i4fIXaYK4e0Zmb1MGzzDPxA4upEL3/view?usp=sharing",
+      "download": "https://drive.google.com/uc?export=download&id=1aq9i4fIXaYK4e0Zmb1MGzzDPxA4upEL3"
+    }
+  },
+  {
+    "name": "Applied Artificial Intelligence",
+    "desc": "Issued by Edunet Foundation",
+    "image": "applied_ai",
+    "category": "Technical",
+    "links": {
+      "view": "https://drive.google.com/file/d/1IQGM1vVmWZcWvuJUcHmNWYx9Y3hlHwc8/view?usp=sharing",
+      "download": "https://drive.google.com/uc?export=download&id=1IQGM1vVmWZcWvuJUcHmNWYx9Y3hlHwc8"
+    }
+  },
+  {
+    "name": "Artificial Intelligence",
+    "desc": "Issued by EduBridge and Infosys",
+    "image": "edubridge",
+    "category": "Technical",
+    "links": {
+      "view": "https://drive.google.com/file/d/1JXZq1ikTddUX36ry4XmUJ3OOeukMv2cP/view?usp=sharing",
+      "download": "https://drive.google.com/uc?export=download&id=1JXZq1ikTddUX36ry4XmUJ3OOeukMv2cP"
+    }
+  }
+]

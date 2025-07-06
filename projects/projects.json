@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Netflix Clone",
+    "desc": "A web application that mimics the Netflix interface, allowing users to browse and watch movies and TV shows.",
+    "image": "netflixclone",
+    "category": "Frontend",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ravi-narayana-brahma_webdevelopment-netflixclone-languageselection-activity-7248653514246103041-oiXc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhRTmkB8JOsK4g-yhjwzvuAHfXyh4FjbW0",
+      "code": "https://github.com/Ravi-narayana-brahma/netflix-clone.git"
+    }
+  },
+  {
+    "name": "WordVibe",
+    "desc": "TTS speaks text, STT writes speech, Text-to-Text transforms text, and Image-to-Text extracts words from images.",
+    "image": "WordVibe",
+    "category": "NLP",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ravi-narayana-brahma_word-vibe-ai-powered-multimodal-text-activity-7343512024233988096-reVW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhRTmkB8JOsK4g-yhjwzvuAHfXyh4FjbW0",
+      "code": "https://github.com/Ravi-narayana-brahma/Text_Speech_app.git"
+    }
+  },
+  {
+    "name": "EDA-on-Google PlayStoreApp",
+    "desc": "An exploratory data analysis project on Google Play Store apps, analyzing app ratings, categories, and user reviews.",
+    "image": "EDA-on-Google_Play_Store_App",
+    "category": "DataAnalysis",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ravi-narayana-brahma_eda-activity-7242052949659545600-xUoD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhRTmkB8JOsK4g-yhjwzvuAHfXyh4FjbW0",
+      "code": "https://github.com/Ravi-narayana-brahma/EDA-on-Google_Play_Store_App.git"
+    }
+  },
+  {
+    "name": "Google Play Store Apps Dashboard",
+    "desc": "A dashboard that provides insights into Google Play Store apps, including app ratings, categories, and user reviews.",
+    "image": "gpadashboard",
+    "category": "DataAnalysis",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ravi-narayana-brahma_datascience-powerbi-datavisualization-activity-7242928062537891840-5cEw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhRTmkB8JOsK4g-yhjwzvuAHfXyh4FjbW0",
+      "code": "https://github.com/Ravi-narayana-brahma/EDA-on-Google_Play_Store_App.git"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A personal portfolio website showcasing my projects, skills, and experiences in web development.",
+    "image": "portfolio",
+    "category": "FullStack",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Ravi-narayana-brahma/Portfolio.git"
+    }
+  },
+  {
+    "name": "Online Book Store",
+    "desc": "An online platform for browsing and purchasing books, featuring a user-friendly interface and secure payment options.",
+    "image": "onlinebookstore",
+    "category": "FullStack",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+  
+]
