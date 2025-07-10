@@ -338,6 +338,9 @@ header .navbar ul li a:hover {
   .home .content p span {
     font-size: 2.2rem;
   }
+  .home .content h2 span {
+    font-size: 3.4rem;
+}
 }
 /* hero media queries ends*/
 /* hero section end */
@@ -931,6 +934,24 @@ header .navbar ul li a:hover {
 
 .tab-content.active {
   display: block;
+}
+@media screen and (max-width: 450px) {
+  .tab-navbar {
+    width: 300px;
+  }
+  .tab-navbar .tab-btn {
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+  }
+  .tab-navbar .tab-btn.active{
+    width: 150px;
+    height: 30px;
+  }
+  .tab-navbar .tab-btn:hover{
+    width: 150px;
+    height: 30px;
+  }
 }
 /* internships section starts */
 .internships .timeline {
