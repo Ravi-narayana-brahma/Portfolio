@@ -221,6 +221,7 @@ header .navbar ul li a:hover {
 }
 .home .content h2 {
   font-size: 4.0rem;
+  margin-top: 55px;
   font-weight: 800;
   color: #002057;
 }
