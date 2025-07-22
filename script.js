@@ -170,7 +170,7 @@ function showCertificates(certificates) {
           <div class="desc">
             <p>${cert.desc}</p>
             <div class="btns">
-              <a href="${cert.link}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+              <a href="${cert.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
               <a href="${cert.links.download}" class="btn" target="_blank">Download <i class="fas fa-download"></i></a>
             </div>
           </div>
