@@ -54,5 +54,17 @@
     {
         "name": "Machine Learning",
         "icon": "https://img.icons8.com/fluency/48/000000/artificial-intelligence.png"
+    },
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/ultraviolet/48/react--v1.png"
+    },
+    {
+        "name": "React Native",
+        "icon": "https://img.icons8.com/color/48/react-native.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/fluency/48/node-js.png"
     }
 ]
