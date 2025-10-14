@@ -43,7 +43,7 @@
     "name": "Portfolio Website",
     "desc": "A personal portfolio website showcasing my projects, skills, and experiences in web development.",
     "image": "portfolio",
-    "category": "FullStack",
+    "category": "Frontend",
     "links": {
       "view": "https://www.linkedin.com/posts/ravi-narayana-brahma_webdevelopment-portfolio-frontenddevelopment-activity-7347615112255442944-hObD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhRTmkB8JOsK4g-yhjwzvuAHfXyh4FjbW0",
       "code": "https://github.com/Ravi-narayana-brahma/Portfolio.git"
