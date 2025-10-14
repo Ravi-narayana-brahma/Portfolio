@@ -66,5 +66,9 @@
     {
         "name": "Node.js",
         "icon": "https://img.icons8.com/fluency/48/node-js.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma.png"
     }
 ]
