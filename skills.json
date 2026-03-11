@@ -16,10 +16,6 @@
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
@@ -34,6 +30,10 @@
     {
         "name": "Power BI",
         "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
+    },
+    {
+      "name": "Spring Boot",
+      "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
     },
     {
         "name": "Git",
@@ -52,16 +52,8 @@
         "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"
     },
     {
-        "name": "Machine Learning",
-        "icon": "https://img.icons8.com/fluency/48/000000/artificial-intelligence.png"
-    },
-    {
         "name": "React",
         "icon": "https://img.icons8.com/ultraviolet/48/react--v1.png"
-    },
-    {
-        "name": "React Native",
-        "icon": "https://img.icons8.com/color/48/react-native.png"
     },
     {
         "name": "Node.js",
